@@ -5,7 +5,7 @@ _**Me chamo Rafael de Oliveira**_. Sou do município de Maranguape-Ce no Novo Pa
 
 ➢ 🌴 Atualmente nesse curso eu estou estudando _**Python**_, _**HTML**_, _**Shell**_, _**MySQL**_, **C++**
 
-![Python](https://img.shields.io/badge/python-222222?style=for-the-badge&logo=python&logoColor=006699)
+![Python](https://img.shields.io/badge/python-006699?style=for-the-badge&logo=python&logoColor=222222)
 ![Shell](https://img.shields.io/badge/Shell-222222?style=for-the-badge&logo=Shell&logoColor=99FF00)
 ![MySQL](https://img.shields.io/badge/MySQL-222222?style=for-the-badge&logo=MySQL&logoColor=3399CC)
 ![Java](https://img.shields.io/badge/java-222222?style=for-the-badge&logo=openjdk&logoColor=CC9900)
