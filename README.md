@@ -3,7 +3,7 @@
 
 _**Me chamo Rafael de Oliveira**_. Sou do município de Maranguape-Ce no Novo Parque Iracema, sou estudante do *Instituto Federal do Ceará (IFCE), no Campus de Maranguape*, onde curso Infomática Técnica. E estou aqui para começar minha jornada no _**GitHub**_.
 
-➢ 🌴 Atualmente nesse curso eu estou estudando _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**Shell**_, _**MySQL**_, _**Java**_ e _**C++**_. 
+➢ 🌴 Atualmente nesse curso eu estou estudando _**Python**_, _**HTML**_, _**Shell**_, _**MySQL**_,**C++**_
 
 ![Python](https://img.shields.io/badge/python-222222?style=for-the-badge&logo=python&logoColor=006699)
 ![Shell](https://img.shields.io/badge/Shell-222222?style=for-the-badge&logo=Shell&logoColor=99FF00)
