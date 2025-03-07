@@ -15,7 +15,7 @@ _**Me chamo Rafael de Oliveira**_. Sou do município de Maranguape-Ce no Novo Pa
 
 ➢ 📫 Se quiser pode entrar em contato comigo pelo email: rafael.marques@aluno.ifce.edu.br
 
-➢ ⚡ Curiosidades sobre mim: Eu amo praticar esportes tipo, _**Futebol**_, _**Tênis de Mesa**_ e _**Damas**_.
+➢ 🔱 Curiosidades sobre mim: Eu amo praticar esportes tipo, _**Futebol**_, _**Tênis de Mesa**_ e _**Damas**_.
 
 ### Ferramentas
 ![GitHub](https://img.shields.io/badge/github-222222.svg?style=for-the-badge&logo=github&logoColor=white)
