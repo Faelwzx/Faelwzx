@@ -3,13 +3,11 @@
 
 _**Me chamo Rafael de Oliveira**_. Sou do município de Maranguape-Ce no Novo Parque Iracema, sou estudante do *Instituto Federal do Ceará (IFCE), no Campus de Maranguape*, onde curso Infomática Técnica. E estou aqui para começar minha jornada no _**GitHub**_.
 
-➢ 🌴 Atualmente nesse curso eu estou estudando _**Python**_, _**HTML**_, _**Shell**_, _**MySQL**_, **C++**
+➢ 🌴 Atualmente nesse curso eu estou estudando _**Python**_, _**Shell**_, _**MySQL**_, 
 
 ![Python](https://img.shields.io/badge/python-006699?style=for-the-badge&logo=python&logoColor=222222)
 ![Shell](https://img.shields.io/badge/Shell-99FF00?style=for-the-badge&logo=Shell&logoColor=222222)
 ![MySQL](https://img.shields.io/badge/MySQL-3399CC?style=for-the-badge&logo=MySQL&logoColor=222222)
-![Java](https://img.shields.io/badge/java-CC9900?style=for-the-badge&logo=openjdk&logoColor=222222)
-![C++](https://img.shields.io/badge/C%2B%2B-CC6699?style=for-the-badge&logo=C%2B%2B&logoColor=222222)
 
 ㅤㅤ  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faelwzx&size_weight=0.5&count_weight=0.5&dark)
 
