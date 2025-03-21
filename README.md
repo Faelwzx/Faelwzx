@@ -19,6 +19,7 @@ _**Me chamo Rafael de Oliveira**_. Sou do município de Maranguape-Ce no Novo Pa
 ![GitHub](https://img.shields.io/badge/github-222222.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=veed&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-222222?style=for-the-badge&logo=Accenture&logoColor=white)
+
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
