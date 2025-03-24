@@ -1,9 +1,9 @@
-<h1 align="center"> Olá! tudo bom? 👋🏻</h1>
+<h1 align="center"> E ai! tudo bom? 👋🏻</h1>
 
 
-_**Me chamo Rafael de Oliveira**_. Sou do município de Maranguape-Ce no Novo Parque Iracema, sou estudante do *Instituto Federal do Ceará (IFCE), no Campus de Maranguape*, onde curso Infomática Técnica. E estou aqui para começar minha jornada no _**GitHub**_.
+_**Me chamo Rafael de Oliveira**_. Sou do município de Maranguape-Ce no Novo Parque Iracema, sou estudante do *Instituto Federal do Ceará (IFCE), no Campus de Maranguape*, onde curso Infomática Técnica, E meu objetivo é aprender e aperfeiçõar tudo que eu ja aprendi, e por isso iniciei minha jornada no _**GitHub**_.
 
-➢ 🌴 Atualmente nesse curso eu estou estudando _**Python**_, _**Shell**_, _**MySQL**_, 
+➢ 🌴 Atualmente nesse curso eu já usei ou uso essas linguagens _**Python**_, _**Shell**_, _**MySQL**_, 
 
 ![Python](https://img.shields.io/badge/python-FFFAFA?style=for-the-badge&logo=python&logoColor=222222)
 ![Shell](https://img.shields.io/badge/Shell-FFFAFA?style=for-the-badge&logo=Shell&logoColor=222222)
@@ -13,8 +13,6 @@ _**Me chamo Rafael de Oliveira**_. Sou do município de Maranguape-Ce no Novo Pa
 
 ➢ 📞 Se quiser pode entrar em contato comigo pelo email: rafael.marques@aluno.ifce.edu.br
 
-➢ 🔱 Curiosidades sobre mim: Eu amo praticar esportes como, _**Futebol**_, _**Tênis de Mesa**_ e _**Damas**_.
-
 ### Ferramentas
 ![GitHub](https://img.shields.io/badge/github-1C1C1C.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1C1C1C.svg?style=for-the-badge&logo=veed&logoColor=white)
@@ -23,6 +21,11 @@ _**Me chamo Rafael de Oliveira**_. Sou do município de Maranguape-Ce no Novo Pa
 ![Eclipse](https://img.shields.io/badge/Eclipse-1C1C1C?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-1C1C1C?style=for-the-badge&logo=arduino&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-1C1C1C?style=for-the-badge&logo=github-copilot&logoColor=white)
+
+➢ 🔱 Curiosidades sobre mim: Eu Gosto muito de Aproveitar cada momento, não gosto de deixar nada passar,
+sou fanático por esportes em geral e até prático alguns como, _**Futebol**_, _**Tênis de Mesa**_ e _**Damas**_.
+
+
 
 
 
