@@ -1,34 +1,69 @@
-<h1 align="left"> Rafael 🔱</h1>
+<h1 align="left">Eai! Bom?</h1>
 
 
-_**Me chamo Rafael de Oliveira**_. Sou do município de Maranguape-Ce no Novo Parque Iracema, sou estudante do *Instituto Federal do Ceará (IFCE), no Campus de Maranguape*, onde curso Infomática Técnica, E meu objetivo é aprender linguagens novas e aperfeiçoar todas que eu ja aprendi, e por isso iniciei minha jornada no _**GitHub**_.
+_**Me chamo Rafael de Oliveira**_.  
+Sou do município de Maranguape-Ce no Novo Parque Iracema, sou estudante do *Instituto Federal do Ceará (IFCE), no Campus de Maranguape*, onde curso Infomática Técnica, e meu objetivo é aprender linguagens novas e aperfeiçoar todas que eu já aprendi, e por isso iniciei minha jornada no _**GitHub**_.
 
-➢ 🌴 Atualmente nesse curso eu já usei ou uso essas linguagens _**Python**_, _**Shell**_, _**MySQL**_, 
+➢ 🔱 Atualmente nesse curso eu já usei ou uso as linguagens: _**Python**_ e _**MySQL**_.
 
-![Python](https://img.shields.io/badge/python-FFFAFA?style=for-the-badge&logo=python&logoColor=#1a1a1a)
-![MySQL](https://img.shields.io/badge/MySQL-FFFAFA?style=for-the-badge&logo=MySQL&logoColor=#1a1a1a)
+---
 
-ㅤㅤ  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faelwzx&size_weight=0.5&count_weight=0.5&dark)
+### 💻 Linguagens
 
-➢ 📞 Se quiser pode entrar em contato comigo pelo email: rafael.marques@aluno.ifce.edu.br
+<div style="display: inline_block"><br>
+  <img align="center" alt="Faelwz-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Faelwz-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
 
-### Ferramentas
-![GitHub](https://img.shields.io/badge/github-1C1C1C.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1C1C1C.svg?style=for-the-badge&logo=veed&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-1C1C1C?style=for-the-badge&logo=Accenture&logoColor=white)
+---
+### 📊 Status
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/faelwzx)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-1C1C1C?style=for-the-badge&logo=arduino&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-1C1C1C?style=for-the-badge&logo=github-copilot&logoColor=white)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=faelwzx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelwzx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
 
-➢ 🔱 Curiosidades sobre mim: Eu Gosto muito de Aproveitar cada momento, não gosto de deixar nada passar,
-sou fanático por esportes em geral e até prático alguns como, _**Futebol**_, _**Tênis de Mesa**_ e _**Damas**_.
+### 🧰 Ferramentas
 
+<p>
+  <a href="https://github.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-BF9FFF.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
+  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
 
+  <a href="https://www.arduino.cc/en/software" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  </a>
 
+  <a href="https://github.com/features/copilot" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub_Copilot-BF9FFF?style=for-the-badge&logo=githubcopilot&logoColor=white">
+  </a>
+</p>
 
+---
 
+### 🌐 Social
+
+<p>
+  <a href="https://instagram.com/faelwzx" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://wa.me/5585987820413" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+
+  <a href="mailto:rafael.marques@aluno.ifce.edu.br" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://steamcommunity.com/id/nykoo_01/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white">
+  </a>
+</p>
 <!--
 **Faelwzx/Faelwzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
