@@ -48,7 +48,7 @@ Sou do município de Maranguape-Ce no Novo Parque Iracema, sou estudante do *Ins
 ### 🌐 Social
 
 <p>
-  <a href="https://instagram.com/faelwzx" target="_blank" style="text-decoration: none;">
+  <a href="https://instagram.com/faelw_zx" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
