@@ -1,4 +1,4 @@
-<h1 align="center"> E ai! tudo bom? 👋🏻</h1>
+<h1 align="left"> Rafael 🔱</h1>
 
 
 _**Me chamo Rafael de Oliveira**_. Sou do município de Maranguape-Ce no Novo Parque Iracema, sou estudante do *Instituto Federal do Ceará (IFCE), no Campus de Maranguape*, onde curso Infomática Técnica, E meu objetivo é aprender linguagens novas e aperfeiçoar todas que eu ja aprendi, e por isso iniciei minha jornada no _**GitHub**_.
