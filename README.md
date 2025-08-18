@@ -18,11 +18,16 @@ Sou do município de Maranguape-Ce no Novo Parque Iracema, sou estudante do *Ins
 
 ### 📊 Status
 
-<div style="center: flex; align-items: flex-start; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=faelwzx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelwzx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em"/>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=faelwzx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelwzx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🧰 Ferramentas
