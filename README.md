@@ -1,6 +1,5 @@
 <h1 align="left">Eai! Bom?</h1>
 
-
 _**Me chamo Rafael de Oliveira**_.  
 Sou do município de Maranguape-Ce no Novo Parque Iracema, sou estudante do *Instituto Federal do Ceará (IFCE), no Campus de Maranguape*, onde curso Infomática Técnica, e meu objetivo é aprender linguagens novas e aperfeiçoar todas que eu já aprendi, e por isso iniciei minha jornada no _**GitHub**_.
 
@@ -16,12 +15,15 @@ Sou do município de Maranguape-Ce no Novo Parque Iracema, sou estudante do *Ins
 </div>
 
 ---
+
 ### 📊 Status
 
-<p align="left">
+<div style="display: flex; align-items: flex-start; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=faelwzx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelwzx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
+</div>
+
+---
 
 ### 🧰 Ferramentas
 
