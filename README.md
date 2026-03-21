@@ -12,6 +12,8 @@ Sou do município de Maranguape-Ce no Novo Parque Iracema, sou estudante do *Ins
 <div style="display: inline_block"><br>
   <img align="center" alt="Faelwz-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Faelwz-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Faelwz-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/html-original.svg">
+  <img align="center" alt="Faelwz-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/css-original.svg">
 </div>
 
 ---
