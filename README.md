@@ -3,7 +3,7 @@
 _**Me chamo Rafael de Oliveira**_.  
 Sou do município de Maranguape-Ce no Novo Parque Iracema, sou estudante do *Instituto Federal do Ceará (IFCE), no Campus de Maranguape*, onde curso Infomática Técnica, e meu objetivo é aprender linguagens novas e aperfeiçoar todas que eu já aprendi, e por isso iniciei minha jornada no _**GitHub**_.
 
-➢ 🔱 Atualmente nesse curso eu já usei ou uso as linguagens: _**Python**_ e _**MySQL**_.
+➢ 🔱 Atualmente nesse curso eu já usei ou uso as linguagens: _**Python**_ e _**MySQL**_. _**HTML**_. _**CSS**_.
 
 ---
 
