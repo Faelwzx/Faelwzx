@@ -20,8 +20,6 @@ Sou do município de Maranguape-Ce no Novo Parque Iracema, sou estudante do *Ins
 
 ---
 
----
-
 ### 🧰 Ferramentas
 
 <p>
